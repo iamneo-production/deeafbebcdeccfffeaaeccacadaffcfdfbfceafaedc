@@ -13,3 +13,5 @@ public interface SpringappService {
 	Page<Springapp> findPaginated(int pageNo,int ps, String sortf, String sortd);
 }
 
+
+
