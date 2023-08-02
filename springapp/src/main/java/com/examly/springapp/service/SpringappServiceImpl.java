@@ -40,4 +40,3 @@ public Page<Springapp> findPaginated(int pageNo,int ps, String sortf, String sor
 	return this.springapprep.findAll(pga);
 }
 }
-
