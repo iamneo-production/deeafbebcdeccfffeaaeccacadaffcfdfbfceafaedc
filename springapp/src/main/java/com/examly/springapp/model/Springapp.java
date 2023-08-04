@@ -8,6 +8,8 @@ import javax.persistence.Id;
 import javax.persistence.Table;
 import java.sql.Date;
 
+
+
 @Entity
 @Table(name = "task")
 public class Springapp {
